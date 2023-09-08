@@ -1,10 +1,10 @@
-baseURL = "https://robertabrandao.com.br/"
+baseURL = "https://blog.deliveringsoftware.com.br/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
 # website title
-title = "Roberta Brandão"
+title = "Delivering Software | Blog"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "pt"
@@ -13,8 +13,8 @@ languageName = "Português Br"
 
 # Author config
 [author]
-  name = "Beta Brandão"
-  email = "robertanrbandao@gmail.com"
+  name = "Delivering Software"
+  email = "deliveringsoftware@gmail.com"
   link = ""
 
 # Menu config
