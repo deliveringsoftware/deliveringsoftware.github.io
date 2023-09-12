@@ -84,11 +84,11 @@ languageName = "Português Br"
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = ""
   # LoveIt NEW | 0.2.0 date format
-  dateFormat = "2006-01-02"
+  dateFormat = "02/01/2006"
   # website title for Open Graph and Twitter Cards
-  title = "Beta Brandão"
+  title = "Delivering Software Blog"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Honestidade em pequenas coisas não é uma coisa pequena"
+  description = "Tudo relacionado a software, da ideia ao deploy, passando por processo, ferramentas, automação, monitoramento, ..."
   # website images for Open Graph and Twitter Cards
   #images = ["/logo.png"]
  
@@ -111,12 +111,11 @@ languageName = "Português Br"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/images/ds_avatar.png"
       # title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      #subtitle = "Honestidade em pequenas coisas não é uma coisa pequena."
-      subtitle = "Dev-Sec-Ops, atualmente focada em Observabilidade na Gerdau S/A."
+      subtitle = "Tudo relacionado a software, da ideia ao deploy, passando por processo, ferramentas, automação, monitoramento, ..."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -131,13 +130,12 @@ languageName = "Português Br"
   
   # Social config in home page
   [params.social]
-    GitHub = "betabrandao"
-    Linkedin = "betabrandao"
-    Instagram = "betanaroca"
-    Gitlab = "betabrandao"
+    GitHub = "deliveringsoftware"
+    Linkedin = "https://www.linkedin.com/groups/8768766/"
+    Instagram = "deliveringsoftware"
   [params.page.comment.gitalk]
     enable = true
-    owner = "betabrandao"
-    repo = "betabrandao.github.io"
+    owner = "deliveringsoftware"
+    repo = "deliveringsoftware.github.io"
     clientId = "d6eea39f33fc749ce033"
     clientSecret = "2f3c3e3a135b7ffa35ce0ab4566d52b19a943b0e"
